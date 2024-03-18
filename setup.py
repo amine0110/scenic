@@ -70,7 +70,6 @@ install_requires_projects = [
 
 install_requires_core = [
     "absl-py>=1.0.0",
-    "numpy==1.26.0",
     "jax>=0.4.3",
     "jaxlib>=0.4.3",
     "flax>=0.4.0",
